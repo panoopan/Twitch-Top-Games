@@ -1,6 +1,5 @@
 # Twitch-Top-Games
-串接 Twitch API 顯示目前最熱門的 5 個遊戲，並顯示正在直播此遊戲的前 20 個實況。點擊遊戲名稱可以切換不同類別，點擊實況縮圖可連結至 Twitch 頻道。
-
+串接 Twitch API 顯示目前最熱門的 5 個遊戲，並顯示正在直播此遊戲的前 20 個實況，點擊實況縮圖可連結至 Twitch 頻道。
 
 * [Demo](https://panoopan.github.io/Twitch-Top-Games/)
 
@@ -13,12 +12,12 @@
 
 
 ## 使用技術
-* React 搭配 React-router 建立具備會員系統的部落格
-* 串接 Lidemy API
-* 以 JSX 語法撰寫元件
-* 支援 RWD，使用 styled-components 以 Sass 進行排版
-* 使用 React hook 實作功能 
-* 組織 React app 檔案結構
+* 串接 Twitch API 
+* HTML5 撰寫網頁架構
+* CSS3 進行樣式排版
+* JavaScript 實現網頁互動功能
+* XMLHttpRequest(XHR) 物件操作 HTTP 的請求，理解底層的運作。
+* 支援 RWD
 * Github Pages 部署
 
 
