@@ -2,7 +2,7 @@
 Twitch 熱門遊戲實況即時彙整網站，串接 Twitch API 顯示目前最熱門的 5 個遊戲，並列出正在直播此遊戲的前 20 個實況，點擊實況縮圖可連結至 Twitch 頻道。
 
 * [Demo](https://panoopan.github.io/Twitch-Top-Games/)
-* ![](https://github.com/panoopan/Twitch-Top-Games/blob/main/Twitch%20Demo.gif)
+![](https://github.com/panoopan/Twitch-Top-Games/blob/main/Twitch%20Demo.gif)
 
 ## 功能
 * 顯示 Twitch 遊戲影音串流平台即時熱門遊戲前 5 名
